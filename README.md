@@ -1,4 +1,4 @@
-Welcome to the PHP Minify Css Js wiki! 
+Welcome to the Simple css js minifier in php wiki! 
 Easy way to minify css and js files in php.
 Just follow some steps.
 
